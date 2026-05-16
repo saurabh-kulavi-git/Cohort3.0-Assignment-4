@@ -11,8 +11,6 @@ A modern dark-themed portfolio dashboard built using HTML and CSS Grid. Features
 A modern and visually appealing portfolio dashboard built with pure HTML and CSS Grid.  
 This project showcases a clean dark-themed interface inspired by modern creative developer portfolios and Framer-style UI aesthetics.
 
-![Preview](./Framer.png)
-
 ---
 
 ## 🚀 Features
